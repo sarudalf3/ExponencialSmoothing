@@ -5,6 +5,7 @@ Smoothing exponencial forecasting is a way to model and predict the behavior of 
 A time series could be the components: Trend(T), seasonal (S) and residuals (R). Those could be  two interactios among them: Additive is the case when the components add in the model and multiplicative when the components has a combined interaction between them.
 
 $$X_{(t)} = T_{(t)} + S_{(t)} + R_{(t)}, \qquad \text{additive effect}$$
+
 $$X_{(t)} = T_{(t)} * S_{(t)} * R_{(t)}, \qquad \text{multiplicative effect}$$
 
 A example from a multiplicative effect in a time series.
