@@ -20,6 +20,6 @@ There are three types of model, simple exponencial smoothing (SES) to estimate a
 
 In time series exists measures to compare among models, and there are: Squared Error Sum (SSE), Akaike information criteria (AIC) and bayesian information criteria (BIC).
 
-## What do you find on notebook?
+## What do you find on notebook
 
 The notebook use the statsmodels library and includes the code to fit the exponencial smoothing, how to find the measures to identify the best model and how to predict to the future.
